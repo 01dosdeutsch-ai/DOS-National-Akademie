@@ -1,0 +1,1 @@
+export default()=> (<div style={{padding:20}}><h1>Courses A1-C1</h1></div>);

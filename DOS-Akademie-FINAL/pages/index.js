@@ -1,0 +1,1 @@
+export default()=> (<div style={{padding:20}}><h1>DOS Akademie FINAL</h1><p>German AI Learning Platform</p></div>);
